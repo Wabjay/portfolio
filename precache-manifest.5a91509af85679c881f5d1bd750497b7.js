@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "dbaea26769813579ad37",
-    "url": "/portfolio/static/css/main.59f3da3f.chunk.css"
+    "revision": "ad94aff95ee438c4dbef",
+    "url": "/portfolio/static/css/main.64075de0.chunk.css"
   },
   {
-    "revision": "dbaea26769813579ad37",
-    "url": "/portfolio/static/js/main.85d3a36c.chunk.js"
+    "revision": "ad94aff95ee438c4dbef",
+    "url": "/portfolio/static/js/main.58edfdd0.chunk.js"
   },
   {
     "revision": "53ebc025fca807d4dbea",
     "url": "/portfolio/static/js/runtime~main.f308c8e6.js"
   },
   {
-    "revision": "c7fa4596809b3d00dfee",
+    "revision": "94805a1938ae671febb0",
     "url": "/portfolio/static/css/2.65b28943.chunk.css"
   },
   {
-    "revision": "c7fa4596809b3d00dfee",
-    "url": "/portfolio/static/js/2.48a4ca87.chunk.js"
+    "revision": "94805a1938ae671febb0",
+    "url": "/portfolio/static/js/2.c297596d.chunk.js"
   },
   {
     "revision": "df6340a570a49fd11ff13cecc3a7c953",
@@ -26,18 +26,6 @@ self.__precacheManifest = [
   {
     "revision": "610563da33a907f32bc73ba15e07bad9",
     "url": "/portfolio/static/media/Ethco.610563da.png"
-  },
-  {
-    "revision": "1c1451bed0e443d02aba2f335bfc16c6",
-    "url": "/portfolio/static/media/Ownerfi.1c1451be.png"
-  },
-  {
-    "revision": "4b744583a99d3b1f5e168956112b12d4",
-    "url": "/portfolio/static/media/Techtank.4b744583.png"
-  },
-  {
-    "revision": "ec77b0678f82fd29440a77276779774e",
-    "url": "/portfolio/static/media/door_step.ec77b067.jpg"
   },
   {
     "revision": "ec522b4db129ed3ad2a0bbb9718ac0ef",
@@ -104,6 +92,10 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/image4.090ba8ff.png"
   },
   {
+    "revision": "4b744583a99d3b1f5e168956112b12d4",
+    "url": "/portfolio/static/media/Techtank.4b744583.png"
+  },
+  {
     "revision": "c31ef644e5719692253907000ecb8090",
     "url": "/portfolio/static/media/OwnerfiBg.c31ef644.png"
   },
@@ -120,11 +112,19 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/image3.3298a043.png"
   },
   {
+    "revision": "1c1451bed0e443d02aba2f335bfc16c6",
+    "url": "/portfolio/static/media/Ownerfi.1c1451be.png"
+  },
+  {
+    "revision": "ec77b0678f82fd29440a77276779774e",
+    "url": "/portfolio/static/media/door_step.ec77b067.jpg"
+  },
+  {
     "revision": "1b63546d9b7334519d17c5e2f76c73a4",
     "url": "/portfolio/static/media/checkmark.1b63546d.svg"
   },
   {
-    "revision": "b15942ab6041645c14d9aa2df262977d",
+    "revision": "b2c1d41c56bb8624bf312797095cce84",
     "url": "/portfolio/index.html"
   }
 ];
