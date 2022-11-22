@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "098a8e7ab46f51c79c48",
+    "revision": "9b136e226efa75941929",
     "url": "/portfolio/static/css/main.0cf6aedf.chunk.css"
   },
   {
-    "revision": "098a8e7ab46f51c79c48",
-    "url": "/portfolio/static/js/main.9511d6b4.chunk.js"
+    "revision": "9b136e226efa75941929",
+    "url": "/portfolio/static/js/main.b0ecb9d1.chunk.js"
   },
   {
     "revision": "53ebc025fca807d4dbea",
     "url": "/portfolio/static/js/runtime~main.f308c8e6.js"
   },
   {
-    "revision": "d26d05f8b07f440ff935",
+    "revision": "a9db35415378432def62",
     "url": "/portfolio/static/css/2.65b28943.chunk.css"
   },
   {
-    "revision": "d26d05f8b07f440ff935",
-    "url": "/portfolio/static/js/2.8fc76637.chunk.js"
+    "revision": "a9db35415378432def62",
+    "url": "/portfolio/static/js/2.5fc7bdb3.chunk.js"
   },
   {
     "revision": "df6340a570a49fd11ff13cecc3a7c953",
@@ -116,6 +116,10 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/Ownerfi.1c1451be.png"
   },
   {
+    "revision": "d020502a8de311a7afb97e41ffc161d3",
+    "url": "/portfolio/static/media/Resume-Abdulwahab-Jimoh.d020502a.pdf"
+  },
+  {
     "revision": "ec77b0678f82fd29440a77276779774e",
     "url": "/portfolio/static/media/door_step.ec77b067.jpg"
   },
@@ -124,7 +128,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/checkmark.1b63546d.svg"
   },
   {
-    "revision": "6a6acff5aa12c725aecc4e9394921340",
+    "revision": "70cfc81121a5e99593ba1737daa99fbc",
     "url": "/portfolio/index.html"
   }
 ];
