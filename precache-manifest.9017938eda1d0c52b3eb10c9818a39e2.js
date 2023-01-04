@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "9b136e226efa75941929",
+    "revision": "195e5292d65971d9712e",
     "url": "/portfolio/static/css/main.0cf6aedf.chunk.css"
   },
   {
-    "revision": "9b136e226efa75941929",
-    "url": "/portfolio/static/js/main.b0ecb9d1.chunk.js"
+    "revision": "195e5292d65971d9712e",
+    "url": "/portfolio/static/js/main.ea713e7f.chunk.js"
   },
   {
     "revision": "53ebc025fca807d4dbea",
     "url": "/portfolio/static/js/runtime~main.f308c8e6.js"
   },
   {
-    "revision": "a9db35415378432def62",
+    "revision": "6a3d5e30dd9fdfb5ba43",
     "url": "/portfolio/static/css/2.65b28943.chunk.css"
   },
   {
-    "revision": "a9db35415378432def62",
-    "url": "/portfolio/static/js/2.5fc7bdb3.chunk.js"
+    "revision": "6a3d5e30dd9fdfb5ba43",
+    "url": "/portfolio/static/js/2.4590cdbb.chunk.js"
   },
   {
     "revision": "df6340a570a49fd11ff13cecc3a7c953",
@@ -32,20 +32,20 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/ayremBg.ec522b4d.png"
   },
   {
-    "revision": "dc0eca726e5ea9038734c9d3e00fc59a",
-    "url": "/portfolio/static/media/image1.dc0eca72.png"
+    "revision": "90a68f6c47ea59c73a9c6c5a4343038d",
+    "url": "/portfolio/static/media/image1.90a68f6c.png"
   },
   {
-    "revision": "62c3d247714301d257e82eac70d177a2",
-    "url": "/portfolio/static/media/image2.62c3d247.png"
+    "revision": "5ebde6c8c3eb8ce1a8fab8f321478f85",
+    "url": "/portfolio/static/media/image2.5ebde6c8.png"
   },
   {
-    "revision": "1acafffd3b9f56ee01ab310d1904bfad",
-    "url": "/portfolio/static/media/image3.1acafffd.png"
+    "revision": "5ddad2152c19ee556e75ff7a346d20ee",
+    "url": "/portfolio/static/media/image3.5ddad215.png"
   },
   {
-    "revision": "11d29ff265555810e71979a3b5635e39",
-    "url": "/portfolio/static/media/image4.11d29ff2.png"
+    "revision": "b33a71260da743efc4ae6d23446a053d",
+    "url": "/portfolio/static/media/image4.b33a7126.png"
   },
   {
     "revision": "7080a294e7e844c22e25c35b8357521d",
@@ -100,12 +100,12 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/OwnerfiBg.c31ef644.png"
   },
   {
-    "revision": "d8fa056a940ab0853bed24aacd5877ea",
-    "url": "/portfolio/static/media/image1.d8fa056a.png"
+    "revision": "cb9dfe506e699e76cb36008fb11e519b",
+    "url": "/portfolio/static/media/image1.cb9dfe50.png"
   },
   {
-    "revision": "ea4cf83fddd02a2c353571bb272d5e2a",
-    "url": "/portfolio/static/media/image2.ea4cf83f.png"
+    "revision": "1b35710321202f54ab6502533e023553",
+    "url": "/portfolio/static/media/image2.1b357103.png"
   },
   {
     "revision": "3298a0432c65758ed4c70a7c8eb8e994",
@@ -116,19 +116,19 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/Ownerfi.1c1451be.png"
   },
   {
-    "revision": "d020502a8de311a7afb97e41ffc161d3",
-    "url": "/portfolio/static/media/Resume-Abdulwahab-Jimoh.d020502a.pdf"
+    "revision": "3559ecddfa58ca0f7ff6a03597112877",
+    "url": "/portfolio/static/media/IMG_0554.3559ecdd.jpg"
   },
   {
-    "revision": "ec77b0678f82fd29440a77276779774e",
-    "url": "/portfolio/static/media/door_step.ec77b067.jpg"
+    "revision": "d020502a8de311a7afb97e41ffc161d3",
+    "url": "/portfolio/static/media/Resume-Abdulwahab-Jimoh.d020502a.pdf"
   },
   {
     "revision": "1b63546d9b7334519d17c5e2f76c73a4",
     "url": "/portfolio/static/media/checkmark.1b63546d.svg"
   },
   {
-    "revision": "70cfc81121a5e99593ba1737daa99fbc",
+    "revision": "5ef3bd3f4d9c8507bff8c9e08835b3e6",
     "url": "/portfolio/index.html"
   }
 ];
